@@ -205,7 +205,7 @@ export default function HomePage() {
           </p>
 
           <h1
-            className="rise mx-auto mt-3 max-w-4xl font-display text-[clamp(3rem,8vw,6.5rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-[#1D1D1F]"
+            className="rise mx-auto mt-3 max-w-4xl font-display text-[clamp(2.6rem,9vw,6.5rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-[#1D1D1F]"
             style={delay(0.08)}
           >
             Built to play
